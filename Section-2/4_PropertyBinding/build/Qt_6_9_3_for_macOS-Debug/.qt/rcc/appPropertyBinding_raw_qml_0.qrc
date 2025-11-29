@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/PropertyBinding/">
+    <file alias="Main.qml">/Users/anujsrivastava/Desktop/QML-Beginners/Section-2/4_PropertyBinding/Main.qml</file>
+  </qresource>
+</RCC>
+

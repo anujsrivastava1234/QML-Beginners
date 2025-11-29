@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appRunningQML_FILE /Users/anujsrivastava/Desktop/QML-Beginners/Section-1/3_RunningQML/build/Qt_6_9_3_for_macOS-Debug/appRunningQML.app/Contents/MacOS/appRunningQML)
+set(__QT_DEPLOY_TARGET_appRunningQML_TYPE EXECUTABLE)

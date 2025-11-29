@@ -1,0 +1,6 @@
+module PropertyBinding
+typeinfo appPropertyBinding.qmltypes
+prefer :/qt/qml/PropertyBinding/
+Main 254.0 Main.qml
+depends QtQuick
+

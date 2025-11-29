@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appPropertyBinding_FILE /Users/anujsrivastava/Desktop/QML-Beginners/Section-2/4_PropertyBinding/build/Qt_6_9_3_for_macOS-Debug/appPropertyBinding.app/Contents/MacOS/appPropertyBinding)
+set(__QT_DEPLOY_TARGET_appPropertyBinding_TYPE EXECUTABLE)

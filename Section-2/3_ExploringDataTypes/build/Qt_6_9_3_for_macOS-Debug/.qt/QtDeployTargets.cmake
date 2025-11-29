@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appExploringDataTypes_FILE /Users/anujsrivastava/Desktop/QML-Beginners/Section-2/3_ExploringDataTypes/build/Qt_6_9_3_for_macOS-Debug/appExploringDataTypes.app/Contents/MacOS/appExploringDataTypes)
+set(__QT_DEPLOY_TARGET_appExploringDataTypes_TYPE EXECUTABLE)

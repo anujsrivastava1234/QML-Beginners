@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appQtGlobalObject_FILE /Users/anujsrivastava/Desktop/QML-Beginners/Section-2/5_QtGlobalObject/build/Qt_6_9_3_for_macOS-Debug/appQtGlobalObject.app/Contents/MacOS/appQtGlobalObject)
+set(__QT_DEPLOY_TARGET_appQtGlobalObject_TYPE EXECUTABLE)

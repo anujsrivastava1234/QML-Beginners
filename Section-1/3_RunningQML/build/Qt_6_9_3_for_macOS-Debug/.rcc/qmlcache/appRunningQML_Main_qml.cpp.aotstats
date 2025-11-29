@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 10
+                    }
+                ],
+                "filePath": "/Users/anujsrivastava/Desktop/QML-Beginners/Section-1/3_RunningQML/Main.qml"
+            }
+        ],
+        "moduleId": "RunningQML(appRunningQML)"
+    }
+]

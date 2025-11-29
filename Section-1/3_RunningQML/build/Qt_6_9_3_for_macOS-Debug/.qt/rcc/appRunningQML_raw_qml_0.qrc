@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/RunningQML/">
+    <file alias="Main.qml">/Users/anujsrivastava/Desktop/QML-Beginners/Section-1/3_RunningQML/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+module ExploringDataTypes
+typeinfo appExploringDataTypes.qmltypes
+prefer :/qt/qml/ExploringDataTypes/
+Main 254.0 Main.qml
+depends QtQuick
+

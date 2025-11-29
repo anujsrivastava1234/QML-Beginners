@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/QtGlobalObject">
+    <file alias="qmldir">/Users/anujsrivastava/Desktop/QML-Beginners/Section-2/5_QtGlobalObject/build/Qt_6_9_3_for_macOS-Debug/QtGlobalObject/qmldir</file>
+  </qresource>
+</RCC>
+

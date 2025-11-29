@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 465,
+                        "errorMessage": "",
+                        "functionName": "onNameChanged",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "",
+                        "functionName": "onNameChanged",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 30
+                    }
+                ],
+                "filePath": "/Users/anujsrivastava/Desktop/QML-Beginners/Section-2/6_PropertyChangeHandlers/Main.qml"
+            }
+        ],
+        "moduleId": "PropertyChangeHandlers(appPropertyChangeHandlers)"
+    }
+]

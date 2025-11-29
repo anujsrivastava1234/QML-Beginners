@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/BasicQMLSyntax/">
+    <file alias="Main.qml">/Users/anujsrivastava/Desktop/QML-Beginners/Section-2/1_BasicQMLSyntax/Main.qml</file>
+  </qresource>
+</RCC>
+

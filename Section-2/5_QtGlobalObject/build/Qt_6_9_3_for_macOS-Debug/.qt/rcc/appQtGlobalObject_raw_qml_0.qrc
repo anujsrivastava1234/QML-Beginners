@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/QtGlobalObject/">
+    <file alias="Main.qml">/Users/anujsrivastava/Desktop/QML-Beginners/Section-2/5_QtGlobalObject/Main.qml</file>
+  </qresource>
+</RCC>
+

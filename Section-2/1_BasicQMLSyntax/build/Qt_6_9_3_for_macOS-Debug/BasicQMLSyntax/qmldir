@@ -1,0 +1,6 @@
+module BasicQMLSyntax
+typeinfo appBasicQMLSyntax.qmltypes
+prefer :/qt/qml/BasicQMLSyntax/
+Main 254.0 Main.qml
+depends QtQuick
+

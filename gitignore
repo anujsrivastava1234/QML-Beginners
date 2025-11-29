@@ -1,0 +1,95 @@
+# --------------------------------------------
+# Qt / Qt Creator
+# --------------------------------------------
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.creator.user
+*.creator.user.*
+*.qmlproject.user
+*.qmlproject.user.*
+
+# QML cache
+.cache/
+qml_cache/
+
+# Qt-generated files
+Makefile*
+*.moc
+*.qrc.depends
+*.qmlc
+*.jsc
+*.prl
+*.pc
+*.autosave
+
+# --------------------------------------------
+# Build folders
+# --------------------------------------------
+/build/
+/build-*/
+/out/
+/bin/
+/lib/
+
+# Visual Studio / Ninja / CMake / QMake build artifacts
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/*.ninja
+/*.ninja_deps
+/*.ninja_log
+/qmake.stash
+
+# --------------------------------------------
+# Object & temporary files
+# --------------------------------------------
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.app
+*.app.dSYM/
+
+# Code generation
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+qrc_*.h
+
+# --------------------------------------------
+# Qt Creator local settings
+# --------------------------------------------
+*.cflags
+*.cxxflags
+
+# --------------------------------------------
+# Logs & temp
+# --------------------------------------------
+*.log
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# --------------------------------------------
+# Cache
+# --------------------------------------------
+.cache/
+.clangd/
+CMakeUserPresets.json
+
+# --------------------------------------------
+# Python bindings (if present)
+# --------------------------------------------
+__pycache__/
+*.pyc
+

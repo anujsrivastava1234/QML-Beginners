@@ -1,0 +1,140 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 33,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "anotherString",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "",
+                        "functionName": "aColor",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "aRect",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "aPoint",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "",
+                        "functionName": "aSize",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "aVector3d",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 27,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "anArray",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "anObject",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 29,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "aFunction",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "aFont",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 17,
+                        "durationMicroseconds": 16,
+                        "errorMessage": "Cannot access value for name mInt",
+                        "functionName": "height",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 19,
+                        "durationMicroseconds": 7,
+                        "errorMessage": "Cannot access value for name mString",
+                        "functionName": "text",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 19,
+                        "durationMicroseconds": 5,
+                        "errorMessage": "Cannot access value for name aFont",
+                        "functionName": "font",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 14,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 486,
+                        "errorMessage": "Cannot load property x from (component in /Users/anujsrivastava/Desktop/QML-Beginners/Section-2/3_ExploringDataTypes/Main.qml)::aRect with type QVariant.",
+                        "functionName": "onCompleted",
+                        "line": 45
+                    }
+                ],
+                "filePath": "/Users/anujsrivastava/Desktop/QML-Beginners/Section-2/3_ExploringDataTypes/Main.qml"
+            }
+        ],
+        "moduleId": "ExploringDataTypes(appExploringDataTypes)"
+    }
+]

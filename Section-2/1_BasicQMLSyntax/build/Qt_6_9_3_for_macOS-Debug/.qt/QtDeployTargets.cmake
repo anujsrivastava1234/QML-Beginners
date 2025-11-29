@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appBasicQMLSyntax_FILE /Users/anujsrivastava/Desktop/QML-Beginners/Section-2/1_BasicQMLSyntax/build/Qt_6_9_3_for_macOS-Debug/appBasicQMLSyntax.app/Contents/MacOS/appBasicQMLSyntax)
+set(__QT_DEPLOY_TARGET_appBasicQMLSyntax_TYPE EXECUTABLE)

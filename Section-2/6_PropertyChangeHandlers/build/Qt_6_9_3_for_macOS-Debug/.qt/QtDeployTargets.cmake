@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appPropertyChangeHandlers_FILE /Users/anujsrivastava/Desktop/QML-Beginners/Section-2/6_PropertyChangeHandlers/build/Qt_6_9_3_for_macOS-Debug/appPropertyChangeHandlers.app/Contents/MacOS/appPropertyChangeHandlers)
+set(__QT_DEPLOY_TARGET_appPropertyChangeHandlers_TYPE EXECUTABLE)
